@@ -2,7 +2,7 @@
 <h3 align="center">I'm Darrion, a software developer based in Trinidad and Tobago 🇹🇹</h3>   
 <br />
 <p align="center">I currently specialize in frontend development, but I also have experience with mobile and backend development.</p>
-<p align="center">Feel free to reach out via <a href="mailto:dmills1994@gmail.com">email</a> or <a href="https://www.linkedin.com/in/darrion-mills-931669171/">LinkedIn</a> if you would like to work together.</p>
+<p align="center">Feel free to check out my <a href="https://dmills.dev/">portfolio</a>, or reach out via <a href="mailto:dmills1994@gmail.com">email</a> or <a href="https://www.linkedin.com/in/darrion-mills-931669171/">LinkedIn</a> if you would like to work together.</p>
 
 <h3 align="left">Technologies I use</h3>
 
